@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Free! Free! Free!",
+  "base_artist": "竹内アンナ",
+  "createdAt": "2025-12-02T17:42:38.792357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Pitbull feat. Theron Theron",
+      "has_synced": true,
+      "path": "select/01_Free_Free_Free_Pitbull_feat._Theron_Theron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Free Free Free (feat. Theron Theron)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/02_Free_Free_Free_(feat._Theron_Theron)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Pitbull,Theron Theron",
+      "has_synced": true,
+      "path": "select/03_Free_Free_Free_Pitbull,Theron_Theron.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Theron Theron",
+      "has_synced": true,
+      "path": "select/04_Free_Free_Free_Theron_Theron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Tokyo Ska Paradise Orchestra feat. Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/05_Free_Free_Free_Tokyo_Ska_Paradise_Orchestra_feat._Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Free Free Free feat.Ikuta Lilas",
+      "artist": "Ikuta Lilas, Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/06_Free_Free_Free_feat.Ikuta_Lilas_Ikuta_Lilas,_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/07_Free_Free_Free_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Free Free Free - feat.幾田りら",
+      "artist": "Tokyo Ska Paradise Orchestra; Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/08_Free_Free_Free_-_feat.幾田りら_Tokyo_Ska_Paradise_Orchestra;_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Pitbull Ft. Theron Theron",
+      "has_synced": true,
+      "path": "select/09_Free_Free_Free_Pitbull_Ft._Theron_Theron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Free Free Free - feat.幾田りら",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/10_Free_Free_Free_-_feat.幾田りら_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/11_Free_Free_Free_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Free! Free! Free!",
+      "artist": "Anna Takeuchi",
+      "has_synced": true,
+      "path": "select/12_Free!_Free!_Free!_Anna_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Free Free Free feat. 幾田りら",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/13_Free_Free_Free_feat._幾田りら_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Tokyo Ska Paradise Orchestra; Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/14_Free_Free_Free_Tokyo_Ska_Paradise_Orchestra;_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Free Free Free",
+      "artist": "Theron Theron",
+      "has_synced": true,
+      "path": "select/15_Free_Free_Free_Theron_Theron.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Free! Free! Free!",
+      "artist": "竹内アンナ",
+      "has_synced": true,
+      "path": "select/16_Free!_Free!_Free!_竹内アンナ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Free Free Free feat.幾田りら",
+      "artist": "TOKYO SKA PARADISE ORCHESTRA dan Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/17_Free_Free_Free_feat.幾田りら_TOKYO_SKA_PARADISE_ORCHESTRA_dan_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Free! Free! Free! - From THE FIRST TAKE",
+      "artist": "竹内アンナ",
+      "has_synced": true,
+      "path": "select/18_Free!_Free!_Free!_-_From_THE_FIRST_TAKE_竹内アンナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Free! Free! Free!",
+      "artist": "竹内アンナ",
+      "has_synced": false,
+      "path": "select/pl_01_Free!_Free!_Free!_竹内アンナ.txt"
+    }
+  ]
+}
